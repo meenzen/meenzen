@@ -32,5 +32,6 @@ Links:
 
 - [GitHub](https://github.com/meenzen)
 - [GitLab](https://gitlab.com/meenzen)
+- [Forgejo](https://forge.mnzn.dev/meenzen)
 - [Matrix](https://matrix.to/#/@samuel:mnzn.dev)
 - <a rel="me" href="https://social.meenzen.net/@samuel">Mastodon</a>
