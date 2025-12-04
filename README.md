@@ -17,7 +17,7 @@ Things I love in no particular order:
 
 - Linux
 - NixOS
-- Docker
+- Docker / Podman / OCI Containers
 - JetBrains IDEs
 - .NET / C# / F#
 - Blazor
@@ -27,6 +27,7 @@ Things I don't like:
 
 - JavaScript, because `Uncaught TypeError: Cannot read properties of undefined`
 - Visual Studio
+- Kubernetes, because YAML
 
 Links:
 
