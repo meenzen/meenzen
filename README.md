@@ -31,6 +31,7 @@ Things I don't like:
 
 Links:
 
+- [Website](https://mnzn.dev)
 - [GitHub](https://github.com/meenzen)
 - [GitLab](https://gitlab.com/meenzen)
 - [Forgejo](https://forge.mnzn.dev/meenzen)
